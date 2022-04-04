@@ -1,0 +1,4 @@
+What geometric shapes are supported by the OLED’s ssd1306 library. Name at least three by their method names.
+1.) Rectangle:    drawRect()
+2.) Triangle:     drawTriangle()
+3.) Circle        drawCircle()
